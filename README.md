@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 My name is Wayne and I am a graduate student at the University of Cincinnati.
 I am a graduate student researcher in the [MIND Lab](https://eecs.ceas.uc.edu/MIND) and the software lead at [Hyperloop UC](https://www.hyperloopuc.com/).
